@@ -13,7 +13,6 @@ Je suis actuellement apprenti développeur dans un laboratoire du CNRS et je sui
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/faridmaman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 [![]()](https://gitwar.herokuapp.com/)
 
