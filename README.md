@@ -6,15 +6,7 @@
 ### Glad to see you here! &nbsp; ![](https://img.shields.io/static/v1?label=Build&message=PASSING&color=<COLOR>)
 
 🇺🇸  
-I'm currently an apprentice developer at a CNRS laboratory, and I'm in my 3rd year of a professional license program at Université Paris-Saclay 🎓. I'm a passionate learner who's always eager to acquire new skills and work with diverse technologies and domains 💡. I enjoy exploring innovative technologies and leveraging them to tackle real-world challenges ✨. Additionally, I love guiding and mentoring newcomers 👨🏻‍💻. My current focus is on web development 🕸️ and cybersecurity 🛡️
-
-🇫🇷  
-Je suis actuellement apprenti développeur dans un laboratoire du CNRS et je suis en troisième année d'un programme de licence professionnelle à l'Université Paris-Saclay 🎓. Je suis un apprenant passionné qui est toujours avide d'acquérir de nouvelles compétences et de travailler avec des technologies et des domaines divers 💡. J'aime explorer les technologies innovantes et les utiliser pour relever les défis du monde réel ✨. De plus, j'aime guider et encadrer les nouveaux venus 👨🏻‍💻. Mon attention est actuellement portée sur le développement web 🕸️ et la cybersécurité 🛡️.
-
-Like My Work?
-
-
-[![]()](https://gitwar.herokuapp.com/)
+ I'm in my 3rd year of a professional license program at Université Paris-Saclay 🎓. I'm a passionate learner who's always eager to acquire new skills and work with diverse technologies and domains 💡. I enjoy exploring innovative technologies and leveraging them to tackle real-world challenges ✨. Additionally, I love guiding and mentoring newcomers 👨🏻‍💻. My current focus is on web development 🕸️ and IT stuff 🛡️
 
 <img align="right" height="250" width="375" alt="" src="gifs/coder.gif" />
 
